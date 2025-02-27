@@ -81,7 +81,7 @@ Ensure that the folowing environment variables is configured in your `.env` file
 
     __Request URL Example__
     ```http
-    http://localhost:8000/api/books
+    GET http://localhost:8000/api/books
     ```
 
     __Response Example__
